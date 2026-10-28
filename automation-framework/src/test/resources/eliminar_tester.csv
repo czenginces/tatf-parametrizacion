@@ -1,0 +1,2 @@
+ADMIN_LOGIN_EMAIL,PASSWORD,MESSAGE_LOGIN,TESTER_FIRST_NAME,TESTER_DELETE_LAST_NAME,TESTER_DELETE_EMAIL,COUNTRY,MESSAGE_USER_CREATED,MESSAGE_DELETE_QUESTION,MESSAGE_USER_DELETED
+yaniscorrea@gmail.com,12345,Sesión iniciada.,Cynthia,Eliminar,cynthia.eliminar.ces@gmail.com,Uruguay,Usuario creado.,¿Eliminar usuario: cynthia.eliminar.ces@gmail.com?,Usuario eliminado.
